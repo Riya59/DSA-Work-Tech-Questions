@@ -10,7 +10,7 @@ class ListNode {
 	}
 }
 **/
-
+// using recursion
 class Solution {
 	
 	void printLinkedListReverse (ListNode head) {
